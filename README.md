@@ -21,7 +21,7 @@ by D.Kahnemann to improve my decision-making skills. Together with GPT-2 we even
 
 </br>
 
-<h2> ❤️Project I devoted my time as co-Founder and marketer from 2017 to 2022 </h2>
+<h2> ❤️ Project I devoted my time as co-Founder and marketer from 2017 to 2022 </h2>
 
 | Description   | TechStack     | Demo  |
 | ------------- |:-------------:| -----:|
@@ -29,7 +29,7 @@ by D.Kahnemann to improve my decision-making skills. Together with GPT-2 we even
 
 ___
 
-<h2>📫My contacts</h2>
+<h2>📫 My contacts</h2>
 
 In case you want to reach me drop a message on [Telegram](t.me/makz808) OR [LinkedIn](https://www.linkedin.com/in/max-kravchenko-a6b3225/) OR good old [e-mail](mailto:max.kravchenko@gmail.com). Will be glad to talk to you.
 
