@@ -2,7 +2,7 @@
 
 👋 My name is Max, I am a passionate FrontEnd Developer with experience in **JavaScript, React, HTML/CSS, Node.JS** and with background in product marketing at EdTech startup and recruitment in executive search companies (quite a mix :). **English - advanced.** 
 
-👀 Currently I’m **open to job opportunities** and looking for a Frontend / Fullstack / Junior Backend roles at IT companies. You can find my  [CV here](https://drive.google.com/file/d/14sDBBjSi7wwpIOWIALK8UkpDuMHXQHhY/view?usp=sharing)
+👀 Currently I’m **open to job opportunities** and looking for a Frontend / Fullstack / Junior Backend roles at IT companies. You can find my  [CV here](https://drive.google.com/file/d/1eDklaNq8P7NDrKcC4tfHsQDRkcBJ1xc0/view?usp=share_link)
 
 📘 In 2022 I devoted my time learning **React Hooks, React Router, Node.js, Express.js and SQL** as well as mastering my skills in **BEM methodology**. 
 Further plans include Redux and Authentification in Node.js. 
